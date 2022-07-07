@@ -2,7 +2,7 @@
 A page that contains a countdown from the current date and time to the new year
 
 # Project Creation
-The page of the countdown was created using HTML and CSS
+The page of the countdown was created using HTML and CSS. Calculations were completed using Javascript.
 * The purpose of this project is to have a countdown keep track of the time till the next new year
 * While loading the countdown a gif shows up indicating loading
 
